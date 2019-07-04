@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77975f87-57ea-43b1-99b2-3b3dc74e7439" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-hi" beforeDir="false" afterPath="$PROJECT_DIR$/service-hi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-hi/src/main/java/com/forezp/TestService.java" beforeDir="false" />
-    </list>
+    <list default="true" id="77975f87-57ea-43b1-99b2-3b3dc74e7439" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -613,7 +607,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32900432" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" visible="true" weight="0.3917749" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946752" weight="0.3917749" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -812,7 +806,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>eureka-server</last-edited>
+          <last-edited>chapter1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
