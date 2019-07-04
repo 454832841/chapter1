@@ -1,0 +1,6 @@
+[submodule "service-hi"]
+	path = service-hi
+	url = https://github.com/454832841/service-hi.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/454832841/eureka-server.git
